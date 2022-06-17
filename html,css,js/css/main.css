@@ -198,6 +198,7 @@ p {
     background-image: url('../imagens/fusca.jpg');
     background-repeat: no-repeat;
     background-position: 85% bottom;
+   height: auto;
 
 }
 
